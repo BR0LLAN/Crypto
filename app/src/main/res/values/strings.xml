@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="textForChart">Bitcoin is up</string>
+    <string name="bottomTextChart">in the last 5 years</string>
+    <string name="home_Intro_to_crypto">Intro to crypto</string>
+    <string name="btn_what_to_crypto">What to crypto?</string>
+    <string name="btn_HowtoStartTradingBitcoin">How to Start Trading Bitcoin?</string>
+    <string name="btn_3TradingStrategies">3 Trading Strategies</string>
+    <string name="popular_crypto">Popular crypto</string>
+    <string name="see_all">See all</string>
+    <string name="cryptoTitleForList">crypto</string>
+    <string name="textForSeeAllBtn">See all</string>
+    <string name="btn_exchange">Exсhange</string>
+    <string name="titleExchangeCrypto">Exсhange</string>
+    <string name="txtMyCoinLeft">I have</string>
+    <string name="txtMyCoinRight">Bitcoin</string>
+    <string name="txtIwant">I want</string>
+    <string name="exchangeTitle">EXCHANGE</string>
+    <string name="txt_symbol">BTC</string>
+    <string name="txt_bitcoin">Bitcoin</string>
+</resources>

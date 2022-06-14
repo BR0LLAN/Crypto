@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/drawable/ic_bitcoin_cash.xml" value="0.31666666666666665" />
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/drawable/ic_dots_disable.xml" value="0.2225" />
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/drawable/ic_dots_enable.xml" value="0.2225" />
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/drawable/oval_marker.xml" value="0.206" />
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/drawable/selector_tab.xml" value="0.206" />
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/layout/activity_pager.xml" value="0.33" />
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/layout/fragment_article.xml" value="0.14722222222222223" />
+        <entry key="..\:/Android Studio projects/cryptoappandroid-dev/app/src/main/res/layout/marker_view.xml" value="0.14722222222222223" />
+        <entry key="app/src/main/res/layout-port/activity_crypto_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-port/activity_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_about_crypto.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_article.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/single_view_list_crypto.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/single_view_popular_crypto.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
